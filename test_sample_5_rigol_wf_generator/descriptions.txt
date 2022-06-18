@@ -1,0 +1,14 @@
+90: noise
+121: sine, 6mVpp, ch 1
+122: " ", ch 2
+123: " ", ch 3
+124: " ", ch 4
+
+131: square, 3mV amplitude, ch 1
+132: " ", ch 2
+
+141: pulse, 0.5 Hz, 1% duty cycle 6mVpp, inverted, ch 1
+142: " ", not inverted, ch 4
+143: pulse, 0.5 Hz, 5% duty cycle, 3mV Hi, -1 mV low
+144: " " ch 4
+

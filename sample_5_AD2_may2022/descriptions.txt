@@ -1,0 +1,6 @@
+160: FlexsEMG noise for 1m40s
+163: ch3, manual sweep, 50-250 Hz
+164: ch4, manual sweep, 50-250 Hz
+173: sweep ch3, start 10s, 4mV Amplitude
+174: sweep ch4, start 10s, 4mV Amplitude
+175: sweep ch5, start 10s, 4mV Amplitude

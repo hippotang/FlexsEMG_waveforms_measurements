@@ -1,0 +1,24 @@
+sample 7 keysight edu3321a
+59: noise
+60: noise
+61: 50 Hz, 3mVpp, no phase offset, ch2, ch4, starts at 10s
+62: " ", but 100 Hz
+63: " ", but 200 Hz
+64: " ", but 250 Hz, starts immediately
+65: " " but 275 Hz, starts immediately
+
+70: noise, baseline
+71: invalid
+72: offset 2ms, 250 Hz
+73: " ", offset 1ms
+74: offset 1ms, 500 Hz
+75: " " offset 2ms
+
+80: 2nd to last try ch2, 10-1000Hz, 3mvpp, 60s sweep linear; last try: 15.0s linear sweep, 3mvpp, 10-1000Hz, ch 2
+81: 15s sweep, 3mvpp, 10-1000Hz linear sweep, starts at 15.0s
+82: same as 81 but on ch4
+
+120: noise, 2 min
+121: noise, 2 min
+122: noise, 2 min
+
