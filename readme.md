@@ -1,5 +1,5 @@
-## Table of Contents
-* Helpful Scripts
+# About
+all the scripts used to compare FlexsEMG input (measured with Analog Discovery 2) to FlexsEMG output. 
 
 ## Helpful Scripts here:
 ### format_and_save_raw.py: 
