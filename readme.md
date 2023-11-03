@@ -1,3 +1,5 @@
+NOTE: ARCHIVED. This repository is for postprocessing data from the FlexsEMG, which has gone through many changes.
+
 # About
 all the scripts used to compare FlexsEMG input (measured with Analog Discovery 2) to FlexsEMG output. 
 
